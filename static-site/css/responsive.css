@@ -1,0 +1,75 @@
+/*responsive*/
+@media only screen and (max-width: 991px){
+	.top-sec_inner{display: none !important;}
+	.search{display: none;}
+	.ser_vice_sec{position: static;width: 100%;    padding: 0px 50px;float: left;}
+	#footer_sec::before{display: none;}
+	#footer_sec::after{display: none;}
+	.fixed{position: static;}
+	.service_sec{margin:0;}
+	.side_wel{margin-top: 20px;}
+	.sli_der-box img{width: 100%;object-fit: cover;}
+}
+
+@media only screen (max-width: 960px) {
+	.stellarnav.mobile li a{color: #fff !important;}
+
+}
+@media only screen and (max-width: 767px){
+	.logo a{padding-bottom: 20px;}
+	.serviceBox{margin: 50px 0 200px;}
+	.service_sec{margin:0;}
+	.nav_jivam h1{font-size: 20px;line-height: 25px;}
+	.pty p{font-size: 20px;}
+	.carousel-showmanymoveone .carousel-control.right{margin-right: 20px;}
+	.projectFactsWrap .item{flex: 0 0 100%;}
+}
+
+@media screen and (min-width: 600px) and (max-width: 767px){
+	.ser_vice_sec{padding: 0px 150px;}
+	.qua_lity{width: 50%;text-align: center;margin-right: auto;margin-left: auto;float: none;}
+	.center-block{width: 100%;}
+	.sli_der-box img{height: 300px;}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1199){
+	.my-width-sec{}
+	#footer_sec::before{display: none;}
+	#footer_sec::after{display: none;}
+}
+
+@media screen and (min-width: 992) and (max-width: 1200px;){
+	#footer_sec::before{display: none !important;}
+	#footer_sec::after{display: none !important;}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

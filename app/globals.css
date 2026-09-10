@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800;900&family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-gold: #e59b20;
+  --dark-gold: #b3740e;
+  --light-gold: #fde68a;
+  --bg-dark: #1e1e1e;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  color: #333333;
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, .font-serif-gold {
+  font-family: 'Cinzel', Georgia, serif;
+}
+
+/* Custom hanging badge pennant shape */
+.pennant-badge {
+  clip-path: polygon(0% 0%, 100% 0%, 100% 85%, 50% 100%, 0% 85%);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #1a1a1a;
+}
+::-webkit-scrollbar-thumb {
+  background: #e59b20;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b3740e;
+}
+
+/* Gold shimmer animation */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #fce09b 0%, #df9926 50%, #fbd581 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-gradient-bg {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 50%, #b45309 100%);
+}

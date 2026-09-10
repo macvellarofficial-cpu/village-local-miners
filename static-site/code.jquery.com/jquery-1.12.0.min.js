@@ -1,0 +1,1266 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+
+<title>Best Gold Mining Company in South Africa, Gold Bar, Gold Dust Wholesale Suppliers South Africa</title>
+    <meta name="keywords" content="Gold Mining company, Gold Mining in South Africa, Gold Wholesaler in South Africa, Gold Bar Suppliers in South Africa, wholesale Rough Diamond, Gold Dust Wholesaler, Au Platinum Suppliers in South Africa">
+    <meta name="description" content="Get best quality Gold Dust Bars from Village Local Miners, Popular Gold Mining Company in Village Local Miners. Manufacturer, wholesaler Suppliers of Gold Bars, Gold Dust, Rough Diamond AU Platinum at an affordable price.">
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+<link href="https://www.villagelocalminers.com/css/font-awesome.css" rel="stylesheet"/>
+<link href="https://www.villagelocalminers.com/css/animate.css" rel="stylesheet"/>
+<link href="https://www.villagelocalminers.com/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="https://www.villagelocalminers.com/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://www.villagelocalminers.com/css/my-style.css" rel="stylesheet"/>
+<link href="https://www.villagelocalminers.com/css/form.css" rel="stylesheet"/>
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.villagelocalminers.com/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.villagelocalminers.com/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.villagelocalminers.com/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.villagelocalminers.com/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.villagelocalminers.com/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.villagelocalminers.com/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.villagelocalminers.com/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.villagelocalminers.com/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.villagelocalminers.com/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.villagelocalminers.com/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.villagelocalminers.com/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.villagelocalminers.com/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.villagelocalminers.com/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://www.villagelocalminers.com/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://www.villagelocalminers.com/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta property="og:type" content="Website">
+<meta name="og:title" content="1kg gold bars for sale Cameroon, buy gold biscuit in Cameroon, gold ore for sale Cameroon, where to buy gold bars in Cameroon, buy gold bar in Cameroon, gold suppliers in Cameroon">
+<meta name="og:description" content=" Village Local Miners Corporation is one of the leading Gold Miners Wholesale Supplier and Exporter across the globe, offering its clients the best gold collection of products. The products include Gold Bars, Raw Gold Bars, Gold Dust, Gold Nuggets and many more">
+<meta property="og:image:width" content="250" >
+<meta property="og:image:height" content="250" >
+<meta name="og:site_name" content="Village Local Miners" >
+<meta property="og:url" content="https://www.villagelocalminers.com">
+<meta name="og:image" content="https://www.villagelocalminers.com/images/logo.png" >
+<meta property="og:image:url" content="https://www.villagelocalminers.com/images/logo.png" >
+<meta name="robots" content="ALL" >
+<meta name="revisit-after" content="1 days" >
+<meta name="generator" content="Village Local Miners" >
+<meta name="author" content="Village Local Miners" >
+<meta name="publisher" content="Village Local Miners" >
+<link rel="canonical" href="https://www.villagelocalminers.com/">
+
+<link href="https://www.villagelocalminers.com/css/boostnav.css" rel="stylesheet"/>
+<link href="https://www.villagelocalminers.com/css/responsive.css" rel="stylesheet"/>
+<script type="text/javascript" src="https://www.villagelocalminers.com/js/jquery-1.10.2.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<meta name="google-site-verification" content="wVICpuipndYQgknHKzzahqSojb42M9GfagscahKcHhA" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-147582276-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-147582276-2');
+</script>
+</head>
+<body>
+
+    <!--top headrer-->
+<section class="top_sec">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 col-md-4 col-lg-4 logo">
+        <a href="https://www.villagelocalminers.com" title="Village Local Miners">
+          <img src="https://www.villagelocalminers.com/images/logo.png" class="img-responsive" title="Village Local Miners" alt="Village Local Miners">
+        </a>
+      </div>
+      <div class="col-xs-12 col-md-8 col-lg-8">
+        <ul class="top-sec_inner">
+          <li><i class="fa fa-envelope" aria-hidden="true"></i>
+            <div class="time_border">
+              <p>Mail Us On: <span></span></p>
+              <p>info@localvillageminers.com</p>
+            </div>
+          </li>
+          <li><i class="fa fa-phone" aria-hidden="true"></i>
+            <div class="time_border">
+              <p>Text Us On: <span></span></p>
+              <p>+256750625851</p>
+            </div>
+          </li>
+          <li><i class="fa fa-map-marker" aria-hidden="true"></i>
+            <div class="time_border">
+                <p>Address: <span></span></p>
+              <p>Entebbe Rd, Kampala Uganda</p>
+            </div>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+<!--top header end-->
+
+<!--nav Sec-->
+<section class="main-nav" id="main-nav">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-12 col-lg-12">
+        <div class="stellarnav">
+          <ul>
+            <li>
+            </li>
+            <li><a href="https://www.villagelocalminers.com" title="Home">Home</a></li>
+              <li><a href="https://www.villagelocalminers.com/about-us.htm" title="About Us">About Us</a></li>
+         
+            
+            <li class="dropdown"><a href="https://www.villagelocalminers.com/gold.htm" title="Gold Cameroon">Gold</a>
+
+                          <ul class="submenu">
+                                  <li class="dropdown"><a href="https://www.villagelocalminers.com/gold-sellers.htm" title="Gold Sellers Cameroon">Gold Sellers </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/1kg-gold-bars-for-sale.htm" title="1KG Gold Bars for Sale Cameroon">1KG Gold Bars for Sale </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/where-to-buy-gold.htm" title="Where to Buy Gold Cameroon">Where to Buy Gold </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/buy-gold-from.htm" title="Buy Gold from Cameroon">Buy Gold from </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/where-to-buy-gold-bars.htm" title="Where to Buy Gold Bars Cameroon">Where to Buy Gold Bars </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/gold-bar-for-sale.htm" title="Gold Bar for Sale Cameroon">Gold Bar for Sale </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/how-to-buy-gold-bar.htm" title="How to Buy Gold Bar Cameroon">How to Buy Gold Bar </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/gold-suppliers.htm" title="Gold Suppliers Cameroon">Gold Suppliers </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/buy-raw-gold-from.htm" title="Buy Raw Gold from Cameroon">Buy Raw Gold from </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/rough-diamond-price.htm" title="Rough Diamond Price Cameroon">Rough Diamond Price </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/buy-gold-bar.htm" title="Buy Gold Bar Cameroon">Buy Gold Bar </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/gold-ore-for-sale.htm" title="Gold Ore for Sale Cameroon">Gold Ore for Sale </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/buy-gold-biscuit.htm" title="Buy Gold Biscuit Cameroon">Buy Gold Biscuit </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/gold-dealers.htm" title="Gold Dealers Cameroon">Gold Dealers </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/gold-dust-for-sale.htm" title="Gold Dust for Sale Cameroon">Gold Dust for Sale </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/buy-gold.htm" title="Buy Gold Cameroon">Buy Gold </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/gold-price.htm" title="Gold Price Cameroon">Gold Price </a>
+                                  </li>
+                              </ul>
+                          </li>
+            
+            <li class="dropdown"><a href="https://www.villagelocalminers.com/our-products.htm" title="Our Products Cameroon">Our Products</a>
+
+                          <ul class="submenu">
+                                  <li class="dropdown"><a href="https://www.villagelocalminers.com/1kg-gold-bullion-bars.htm" title="1kg Gold Bullion Bars Cameroon">1kg Gold Bullion Bars </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/24-karat-gold.htm" title="24 Karat Gold Cameroon">24 Karat Gold </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/diamond-carat.htm" title="Diamond Carat Cameroon">Diamond Carat </a>
+                  
+                  <ul class="submenu">
+                                          <li><a href="https://www.villagelocalminers.com/diamond.htm" title="Diamond Cameroon">Diamond </a>
+
+                                          </li>
+                                        <li><a href="https://www.villagelocalminers.com/natural-diamond.htm" title="Natural Diamond Cameroon">Natural Diamond </a>
+
+                                          </li>
+                                        <li><a href="https://www.villagelocalminers.com/rough-diamond.htm" title="Rough Diamond Cameroon">Rough Diamond </a>
+
+                                          </li>
+                                        <li><a href="https://www.villagelocalminers.com/uncut-diamond.htm" title="Uncut Diamond Cameroon">Uncut Diamond </a>
+
+                                          </li>
+                                        <li><a href="https://www.villagelocalminers.com/white-diamond.htm" title="White Diamond Cameroon">White Diamond </a>
+
+                                          </li>
+                                      </ul>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/gold-bar.htm" title="Gold Bar Cameroon">Gold Bar </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/gold-dust.htm" title="Gold Dust Cameroon">Gold Dust </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/gold-ore.htm" title="Gold Ore Cameroon">Gold Ore </a>
+                                  </li>
+                                <li class="dropdown"><a href="https://www.villagelocalminers.com/raw-gold-bar.htm" title="Raw Gold Bar Cameroon">Raw Gold Bar </a>
+                                  </li>
+                              </ul>
+                          </li>
+                      
+
+
+
+              <li><a href="https://www.villagelocalminers.com/gallery.htm" title="Gallery">Gallery</a></li>
+              <!--<li><a href="https://www.villagelocalminers.com/our-guarantee.htm" title="Our Guarantee">Our Guarantee</a></li>-->
+              <!--<li><a href="https://www.villagelocalminers.com/shipping-and-delivery.htm" title="Shipping & Delivery">Shipping & Delivery</a></li>-->
+              <li><a href="https://www.villagelocalminers.com/contact-us.htm" title="Contact Us">Contact Us</a></li>
+          </ul>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+
+
+<!--banner sec end-->
+<section>
+        <div id="loop-slider" data-autoplay="true" data-speed="3000">
+      <ul id="img-group">
+        
+        <li class="slide" data-img="https://www.villagelocalminers.com/images/first-slider.jpg" title="1kg Gold Bars for Sale Cameroon" alt="1kg Gold Bars for Sale Cameroon"></li>
+        <li class="slide" data-img="https://www.villagelocalminers.com/images/second-slider.jpg" title="1kg Gold Bars for Sale Cameroon" alt="1kg Gold Bars for Sale Cameroon"></li>
+        <li class="slide" data-img="https://www.villagelocalminers.com/images/third-slider.jpg" title="1kg Gold Bars for Sale Cameroon" alt="1kg Gold Bars for Sale Cameroon"></li>
+       
+      </ul>
+    </div>
+</section>
+
+<!--three box sec-->
+<section class="service_sec">
+	<div class="container">
+    <div class="row">
+    	<div class="ser_vice_sec">
+
+                    <div class="col-md-3 col-sm-6">
+            <div class="serviceBox">
+                <div class="service-icon">
+                    <a href="https://www.villagelocalminers.com/24-karat-gold.htm"><img src="https://www.villagelocalminers.com/upload/category/thumb/178889118124-karat-gold.jpg" title="24 Karat Gold for Sale Cameroon" alt="24 Karat Gold" class="img-responsive"></a>
+                </div>
+                <a href="https://www.villagelocalminers.com/24-karat-gold.htm" title="24 Karat Gold for Sale Cameroon" class="btn btn-md green"><h3 class="title">24 Karat Gold</h3></a>
+                <p class="description">
+                   <p><p><strong>Village Local Miners</strong>&nbsp;is one of the best&nbsp;<strong>24-Carat Gold</st . .</p>
+                <p><a href="https://www.villagelocalminers.com/24-karat-gold.htm" class="btn btn-md green" title="Read More">Read More</a></p>
+            </div>
+        </div>
+                <div class="col-md-3 col-sm-6">
+            <div class="serviceBox">
+                <div class="service-icon">
+                    <a href="https://www.villagelocalminers.com/diamond-carat.htm"><img src="https://www.villagelocalminers.com/upload/category/thumb/1615795227Diamond-Carat.jpg" title="Diamond Carat for Sale Cameroon" alt="Diamond Carat" class="img-responsive"></a>
+                </div>
+                <a href="https://www.villagelocalminers.com/diamond-carat.htm" title="Diamond Carat for Sale Cameroon" class="btn btn-md green"><h3 class="title">Diamond Carat</h3></a>
+                <p class="description">
+                   <p><p>If you want to buy <strong>Diamonds</strong>, then you are at the right place. <strong>Villa . .</p>
+                <p><a href="https://www.villagelocalminers.com/diamond-carat.htm" class="btn btn-md green" title="Read More">Read More</a></p>
+            </div>
+        </div>
+                <div class="col-md-3 col-sm-6">
+            <div class="serviceBox">
+                <div class="service-icon">
+                    <a href="https://www.villagelocalminers.com/gold-bar.htm"><img src="https://www.villagelocalminers.com/upload/category/thumb/1788895016gold-bar.jpg" title="Gold Bar for Sale Cameroon" alt="Gold Bar" class="img-responsive"></a>
+                </div>
+                <a href="https://www.villagelocalminers.com/gold-bar.htm" title="Gold Bar for Sale Cameroon" class="btn btn-md green"><h3 class="title">Gold Bar</h3></a>
+                <p class="description">
+                   <p><p><strong>Village Local Miners</strong> is a manufacturer and wholesaler of the best quality g . .</p>
+                <p><a href="https://www.villagelocalminers.com/gold-bar.htm" class="btn btn-md green" title="Read More">Read More</a></p>
+            </div>
+        </div>
+                <div class="col-md-3 col-sm-6">
+            <div class="serviceBox">
+                <div class="service-icon">
+                    <a href="https://www.villagelocalminers.com/gold-dust.htm"><img src="https://www.villagelocalminers.com/upload/category/thumb/1788890816gold-dust.png" title="Gold Dust for Sale Cameroon" alt="Gold Dust" class="img-responsive"></a>
+                </div>
+                <a href="https://www.villagelocalminers.com/gold-dust.htm" title="Gold Dust for Sale Cameroon" class="btn btn-md green"><h3 class="title">Gold Dust</h3></a>
+                <p class="description">
+                   <p><p>If you are looking for high quality Gold Dust Manufacturers in Cameroon visit Village Local  . .</p>
+                <p><a href="https://www.villagelocalminers.com/gold-dust.htm" class="btn btn-md green" title="Read More">Read More</a></p>
+            </div>
+        </div>
+            </div>
+    </div>
+</div>
+</section>
+<!--three box sec end-->
+
+<!--welcome sec-->
+<section class="wel_come-sec">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-md-7 col-lg-7">
+				<div class="nav_jivam">
+                    <div class="nav_jivam1 scrollbox">
+                        <div class="scrollbox-content">
+					       <h1>Village Local Miners - Exporters and Suppliers of Gold and Diamond in Cameroon</h1>
+					       <p><p><a title="Village Local Miners" href="https://www.villagelocalminers.com/">Village Local Miners</a> is a trusted global <a title="Buy Gold" href="https://www.villagelocalminers.com/gold.htm">gold</a> and diamond mining, supply, and export company serving buyers, investors, jewelers, and wholesalers worldwide. We specialize in supplying high-purity gold and natural diamonds sourced directly from mining communities through ethical, transparent, and legally compliant trade practices. Our focus is to deliver authentic precious minerals with certified quality, competitive pricing, and secure worldwide shipping.</p>
+<p><a title="Village Local Miners" href="https://www.villagelocalminers.com/">Village Local Miners</a> has built a strong reputation by providing reliable access to certified gold products and rough diamonds for international markets. To understand our background, values, and experience, you can visit our About Us page.</p>
+<p>We offer a complete range of premium <a title="Buy Gold" href="https://www.villagelocalminers.com/gold.htm">gold</a> products suitable for investment, manufacturing, and industrial use. All gold supplied by Village Local Miners is carefully tested and documented to meet international standards of purity and authenticity. Our <a title="Buy Gold" href="https://www.villagelocalminers.com/gold.htm">gold</a> portfolio includes <a title="24 carat" href="https://www.villagelocalminers.com/24-karat-gold.htm">24 carat</a> gold bars with 99.99% purity, <a title="gold bullion bars" href="https://www.villagelocalminers.com/1kg-gold-bullion-bars.htm">gold bullion bars</a> in standard and custom sizes, raw gold bars and nuggets, gold dust for refining and jewelry production, and gold ore for industrial applications. Detailed information about available gold products can be found on our <a title="Buy Gold" href="https://www.villagelocalminers.com/gold.htm">gold</a> Products page.</p>
+<p>Alongside gold, <a title="Village Local Miners" href="https://www.villagelocalminers.com/">Village Local Miners</a> is a reliable supplier of natural and rough diamonds to global buyers. Our diamond collection is sourced responsibly and inspected to ensure quality, authenticity, and value. We supply rough and uncut diamonds, natural white diamonds, loose diamonds in various carat ranges, and wholesale diamond lots for jewelry manufacturers and traders. Buyers looking for certified diamond supply can explore our Diamond Supply section for more details.</p>
+<p>Clients choose <a title="Village Local Miners" href="https://www.villagelocalminers.com/">Village Local Miners</a> because of our commitment to certified quality, transparency, and ethical sourcing. Every shipment is supported by proper documentation, purity certification, and legal export paperwork. We offer secure worldwide shipping with insured logistics, ensuring safe delivery to any destination. Whether you require small quantities or bulk orders, our team provides flexible solutions and competitive wholesale pricing. For customized supply requests or trade inquiries, clients are encouraged to contact us through our <a title="Contact Us" href="https://www.villagelocalminers.com/contact-us.htm">Contact Us</a> page.</p>
+<p>As experienced <a title="Buy Gold" href="https://www.villagelocalminers.com/gold.htm">gold</a> and diamond exporters, <a title="Village Local Miners" href="https://www.villagelocalminers.com/">Village Local Miners</a> serves international markets across Africa, Asia, Europe, the Middle East, and the Americas. Our global logistics network allows us to manage customs clearance and international compliance efficiently. Businesses seeking a dependable partner for long-term supply can learn more about our international trade operations on our Export Services page.</p>
+<p>We follow a secure and transparent purchasing process designed to protect buyers at every stage. This process includes product selection, price confirmation, documentation review, secure payment handling, and insured export delivery. Our dedicated support team assists clients throughout the transaction to ensure clarity, trust, and satisfaction. Answers to common questions about ordering, payment, and shipping are available on our FAQ page.</p>
+<p><a title="Village Local Miners" href="https://www.villagelocalminers.com/">Village Local Miners</a> is committed to building long-term partnerships based on trust, quality, and professionalism. We aim to connect global buyers with authentic <a title="Buy Gold" href="https://www.villagelocalminers.com/gold.htm">gold</a> and diamonds while supporting responsible mining communities and sustainable practices. Buyers looking for certified precious minerals at competitive global prices are invited to get in touch with our team through the <a title="Contact Us" href="https://www.villagelocalminers.com/contact-us.htm">Contact Us</a> page to begin their sourcing journey with confidence.</p></p>
+                        </div>
+                    </div>
+                    
+				</div>
+			</div>
+			<div class="col-xs-12 col-md-5 col-lg-5">
+				<div class="side_wel">
+					<img src="https://www.villagelocalminers.com/upload/banner/1738699103welcome.jpg" class="img-responsive" alt="1kg Gold Bars for Sale Cameroon" title="1kg Gold Bars for Sale Cameroon">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--welcome sec end--->
+
+<!--why us-->
+<section class="why_us">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-md-12 col-lg-12 head_line">
+				<h4>Why Choose Us</h4>
+			</div>
+			<div class="col-xs-12 col-md-3 col-lg-3">
+				<div class="qua_lity">
+					<div class="ftr">
+						<i class="fa fa-cogs"></i>
+					</div>
+					<p>Leading Gold Miners in Cameroon.</p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-md-3 col-lg-3">
+				<div class="qua_lity">
+					<div class="ftr">
+						<i class="fa fa-truck"></i>
+					</div>
+					<p>Express Delivery to anypart of the world.</p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-md-3 col-lg-3">
+				<div class="qua_lity">
+					<div class="ftr">
+						<i class="fa fa-usd"></i>
+					</div>
+					<p>No mediators. Can save in your costing.</p>
+				</div>
+			</div>
+			<div class="col-xs-12 col-md-3 col-lg-3">
+				<div class="qua_lity">
+					<div class="ftr">
+						<i class="fa fa-external-link"></i>
+					</div>
+					<p>Export to worldwide by Air and ship.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--why us end-->
+
+<!--big sec-->
+<section class="big_sec">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-md-12 col-lg-12 pty">
+				<p>"Are you looking to buy Gold or Diamond in Cameroon at competitive price? Your search ends at Village Local Miners"</p>
+				<a href="https://www.villagelocalminers.com/contact-us.htm" title="Contact Us" class="btn btn-lg green bt-white">Contact Us</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!--big sec end-->
+
+
+<!--slider end-->
+
+<section class="best-price-sec">
+<div class="container">
+<div class="row">
+
+ <div class="col-xs-12 col-md-12 col-lg-12 head_line">
+<h4>Our Products</h4>
+</div>
+
+<div class="inner-events-box">
+<ul id="offers" class="owl-carousel">
+
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/our-products.htm" title="Our Products Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1739370219gold-imges.jpg" title="Our Products Cameroon" alt="Our Products Cameroon"/>
+<h3>Our Products</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/24-karat-gold.htm" title="24 Karat Gold Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/178889118124-karat-gold.jpg" title="24 Karat Gold Cameroon" alt="24 Karat Gold Cameroon"/>
+<h3>24 Karat Gold</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/uncut-diamond.htm" title="Uncut Diamond Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1615809001Uncut-Diamond.jpg" title="Uncut Diamond Cameroon" alt="Uncut Diamond Cameroon"/>
+<h3>Uncut Diamond</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/white-diamond.htm" title="White Diamond Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1615809028White-Diamond.png" title="White Diamond Cameroon" alt="White Diamond Cameroon"/>
+<h3>White Diamond</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/1kg-gold-bullion-bars.htm" title="1kg Gold Bullion Bars Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/17888913291kg-gold-bullion-bars.JPG" title="1kg Gold Bullion Bars Cameroon" alt="1kg Gold Bullion Bars Cameroon"/>
+<h3>1kg Gold Bullion Bars</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/diamond-carat.htm" title="Diamond Carat Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1615795227Diamond-Carat.jpg" title="Diamond Carat Cameroon" alt="Diamond Carat Cameroon"/>
+<h3>Diamond Carat</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/gold-bar.htm" title="Gold Bar Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1788895016gold-bar.jpg" title="Gold Bar Cameroon" alt="Gold Bar Cameroon"/>
+<h3>Gold Bar</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/gold-dust.htm" title="Gold Dust Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1788890816gold-dust.png" title="Gold Dust Cameroon" alt="Gold Dust Cameroon"/>
+<h3>Gold Dust</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/gold-ore.htm" title="Gold Ore Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1788890969Gold-Ore.jpg" title="Gold Ore Cameroon" alt="Gold Ore Cameroon"/>
+<h3>Gold Ore</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/raw-gold-bar.htm" title="Raw Gold Bar Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1788890691Raw-Gold-Bar.jpg" title="Raw Gold Bar Cameroon" alt="Raw Gold Bar Cameroon"/>
+<h3>Raw Gold Bar</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/diamond.htm" title="Diamond Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1615809049Diamond.jpg" title="Diamond Cameroon" alt="Diamond Cameroon"/>
+<h3>Diamond</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/natural-diamond.htm" title="Natural Diamond Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1615809077Natural-Diamond.jpg" title="Natural Diamond Cameroon" alt="Natural Diamond Cameroon"/>
+<h3>Natural Diamond</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/rough-diamond.htm" title="Rough Diamond Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1615809114Rough-Diamond.jpg" title="Rough Diamond Cameroon" alt="Rough Diamond Cameroon"/>
+<h3>Rough Diamond</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/gold.htm" title="Gold Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1739370202gold-imges.jpg" title="Gold Cameroon" alt="Gold Cameroon"/>
+<h3>Gold</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/gold-sellers.htm" title="Gold Sellers Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1738776299gold.jpg" title="Gold Sellers Cameroon" alt="Gold Sellers Cameroon"/>
+<h3>Gold Sellers</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/1kg-gold-bars-for-sale.htm" title="1KG Gold Bars for Sale Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/17888916571kg-gold-bullion-bars.JPG" title="1KG Gold Bars for Sale Cameroon" alt="1KG Gold Bars for Sale Cameroon"/>
+<h3>1KG Gold Bars for Sale</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/where-to-buy-gold.htm" title="Where to Buy Gold Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1738776396Where-to-Buy-Gold.jpg" title="Where to Buy Gold Cameroon" alt="Where to Buy Gold Cameroon"/>
+<h3>Where to Buy Gold</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/buy-gold-from.htm" title="Buy Gold from Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1738776448Buy-Gold-from.jpg" title="Buy Gold from Cameroon" alt="Buy Gold from Cameroon"/>
+<h3>Buy Gold from</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/where-to-buy-gold-bars.htm" title="Where to Buy Gold Bars Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1738776497Where-to-Buy-Gold-Bars.jpg" title="Where to Buy Gold Bars Cameroon" alt="Where to Buy Gold Bars Cameroon"/>
+<h3>Where to Buy Gold Bars</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/gold-bar-for-sale.htm" title="Gold Bar for Sale Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1788962813gold-bar.jpg" title="Gold Bar for Sale Cameroon" alt="Gold Bar for Sale Cameroon"/>
+<h3>Gold Bar for Sale</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/how-to-buy-gold-bar.htm" title="How to Buy Gold Bar Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1738776600how-to-buy-gold-bar.jpg" title="How to Buy Gold Bar Cameroon" alt="How to Buy Gold Bar Cameroon"/>
+<h3>How to Buy Gold Bar</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/gold-suppliers.htm" title="Gold Suppliers Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1738776678gold-suppliers.jpg" title="Gold Suppliers Cameroon" alt="Gold Suppliers Cameroon"/>
+<h3>Gold Suppliers</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/buy-raw-gold-from.htm" title="Buy Raw Gold from Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1788962884Raw-Gold-Bar.jpg" title="Buy Raw Gold from Cameroon" alt="Buy Raw Gold from Cameroon"/>
+<h3>Buy Raw Gold from</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/rough-diamond-price.htm" title="Rough Diamond Price Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1739357697rough-diamond-price.jpg" title="Rough Diamond Price Cameroon" alt="Rough Diamond Price Cameroon"/>
+<h3>Rough Diamond Price</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/buy-gold-bar.htm" title="Buy Gold Bar Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1739357937buy-gold-bar.jpg" title="Buy Gold Bar Cameroon" alt="Buy Gold Bar Cameroon"/>
+<h3>Buy Gold Bar</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/gold-ore-for-sale.htm" title="Gold Ore for Sale Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1788962851Gold-Ore.jpg" title="Gold Ore for Sale Cameroon" alt="Gold Ore for Sale Cameroon"/>
+<h3>Gold Ore for Sale</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/buy-gold-biscuit.htm" title="Buy Gold Biscuit Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1739358214buy-gold-biscuit.jpg" title="Buy Gold Biscuit Cameroon" alt="Buy Gold Biscuit Cameroon"/>
+<h3>Buy Gold Biscuit</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/gold-dealers.htm" title="Gold Dealers Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1739358593gold.JPG" title="Gold Dealers Cameroon" alt="Gold Dealers Cameroon"/>
+<h3>Gold Dealers</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/gold-dust-for-sale.htm" title="Gold Dust for Sale Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1739358788gold-dust.jpg" title="Gold Dust for Sale Cameroon" alt="Gold Dust for Sale Cameroon"/>
+<h3>Gold Dust for Sale</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/buy-gold.htm" title="Buy Gold Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1739358830gold.JPG" title="Buy Gold Cameroon" alt="Buy Gold Cameroon"/>
+<h3>Buy Gold</h3>
+</a>
+</div>
+</li>
+<li>
+<div class="isbox-1">
+<a href="https://www.villagelocalminers.com/gold-price.htm" title="Gold Price Cameroon"> 
+<img src="https://www.villagelocalminers.com/upload/category/1739359036gold-imges.jpg" title="Gold Price Cameroon" alt="Gold Price Cameroon"/>
+<h3>Gold Price</h3>
+</a>
+</div>
+</li>
+</ul>
+
+</div>
+
+</div>
+</div>
+</section>
+
+
+<!--counter-->
+<section>
+	<div id="projectFacts" class="sectionClass">
+    <div class="fullWidth eight columns">
+        <div  class="projectFactsWrap ">
+            <div class="item wow fadeInUpBig animated animated" data-number="20" style="visibility: visible;">
+                <i class="fa fa-briefcase"></i>
+                <p id="number1" class='numscroller number chal_hat-plus' data-min='2' data-max='20' data-delay='10' data-increment='10'>20</p>
+                <span></span>
+                <p>Year's Experience</p>
+            </div>
+            <div class="item wow fadeInUpBig animated animated" data-number="100" style="visibility: visible;">
+                <i class="fa fa-smile-o"></i>
+                <p id="number2" class='numscroller number chal_hat' data-min='2' data-max='100' data-delay='10' data-increment='10'>100</p>
+                <span></span>
+                <p>Client Satisfaction</p>
+            </div>
+            <div class="item wow fadeInUpBig animated animated" data-number="1000" style="visibility: visible;">
+                <i class="fa fa-users" aria-hidden="true"></i>
+                <p id="number3" class='numscroller number chal_hat-plus' data-min='2' data-max='1000' data-delay='10' data-increment='10'>1000</p>
+                <span></span>
+                <p>Satisfied Clients</p>
+            </div>
+            <div class="item wow fadeInUpBig animated animated" data-number="100" style="visibility: visible;">
+                <i class="fa fa-building-o" aria-hidden="true"></i>
+                <p id="number4" class='numscroller number chal_hat-plus' data-min='2' data-max='100' data-delay='10' data-increment='10'>100</p>
+                <span></span>
+                <p>Countries We Export</p>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+<!--counter end-->
+
+
+
+<section>
+    <div class="container">
+        <h2 class="ghj">Buyer Feedback</h2>
+        
+        <div id="testimonial-slider" class="owl-carousel">
+
+        	            <div class="item">
+                <div class="single_testimonial text-center"> 
+                      <a href="javascript:void(0);" title="Antonio B - Colorado"><img style="width:100px;" src="https://www.villagelocalminers.com/images/testimonial.jpg" alt="Antonio B - Colorado" title="Antonio B - Colorado"></a>
+                        <span class="white"><p>Exceptional service and high-quality gold! I ordered a bulk shipment, and everything arrived as promised. The purity of the gold was exactly as described. Highly recommended!</p>
+</span>
+                    <div class="author color_ff"><a href="javascript:void(0);" title="Antonio B - Colorado">Antonio B - Colorado</a>
+                    </div>
+                  </div>
+            </div>
+                         <div class="item">
+                <div class="single_testimonial text-center"> 
+                      <a href="javascript:void(0);" title="Johan V - USA"><img style="width:100px;" src="https://www.villagelocalminers.com/images/testimonial.jpg" alt="Johan V - USA" title="Johan V - USA"></a>
+                        <span class="white"><p>Village Local Miners is a trusted company for buying gold and diamonds. Their customer support team guided me through the process, and delivery was on time. Will buy again</p>
+</span>
+                    <div class="author color_ff"><a href="javascript:void(0);" title="Johan V - USA">Johan V - USA</a>
+                    </div>
+                  </div>
+            </div>
+                         <div class="item">
+                <div class="single_testimonial text-center"> 
+                      <a href="javascript:void(0);" title="Deniel - Alabama"><img style="width:100px;" src="https://www.villagelocalminers.com/images/testimonial.jpg" alt="Deniel - Alabama" title="Deniel - Alabama"></a>
+                        <span class="white"><p>I was hesitant at first, but Village Local Miners proved to be a reliable gold supplier. The pricing is fair, and the transaction was smooth. Great experience!</p>
+</span>
+                    <div class="author color_ff"><a href="javascript:void(0);" title="Deniel - Alabama">Deniel - Alabama</a>
+                    </div>
+                  </div>
+            </div>
+                         <div class="item">
+                <div class="single_testimonial text-center"> 
+                      <a href="javascript:void(0);" title="Emmanuel O - Ontario, Canada"><img style="width:100px;" src="https://www.villagelocalminers.com/images/testimonial.jpg" alt="Emmanuel O - Ontario, Canada" title="Emmanuel O - Ontario, Canada"></a>
+                        <span class="white"><p>I purchased diamonds from them, and I must say the quality was outstanding. Their team ensured proper documentation and certification. Very satisfied</p>
+</span>
+                    <div class="author color_ff"><a href="javascript:void(0);" title="Emmanuel O - Ontario, Canada">Emmanuel O - Ontario, Canada</a>
+                    </div>
+                  </div>
+            </div>
+                         <div class="item">
+                <div class="single_testimonial text-center"> 
+                      <a href="javascript:void(0);" title="Ednas - family, Florida"><img style="width:100px;" src="https://www.villagelocalminers.com/images/testimonial.jpg" alt="Ednas - family, Florida" title="Ednas - family, Florida"></a>
+                        <span class="white"><p>One of the best gold suppliers I&rsquo;ve dealt with. The transaction was transparent, and I received my order safely. Highly professional service</p>
+</span>
+                    <div class="author color_ff"><a href="javascript:void(0);" title="Ednas - family, Florida">Ednas - family, Florida</a>
+                    </div>
+                  </div>
+            </div>
+                         <div class="item">
+                <div class="single_testimonial text-center"> 
+                      <a href="javascript:void(0);" title="Daniel - Houston, Texas"><img style="width:100px;" src="https://www.villagelocalminers.com/images/testimonial.jpg" alt="Daniel - Houston, Texas" title="Daniel - Houston, Texas"></a>
+                        <span class="white"><p>Fast and secure delivery! The gold was well-packaged, and the quality exceeded my expectations. I will definitely be making more purchases</p>
+</span>
+                    <div class="author color_ff"><a href="javascript:void(0);" title="Daniel - Houston, Texas">Daniel - Houston, Texas</a>
+                    </div>
+                  </div>
+            </div>
+                         <div class="item">
+                <div class="single_testimonial text-center"> 
+                      <a href="javascript:void(0);" title="Michael S - Costa, Rica"><img style="width:100px;" src="https://www.villagelocalminers.com/images/testimonial.jpg" alt="Michael S - Costa, Rica" title="Michael S - Costa, Rica"></a>
+                        <span class="white"><p>I appreciate their honesty and professionalism. Buying gold from Village Local Miners was a smooth and stress-free process. Great experience</p>
+</span>
+                    <div class="author color_ff"><a href="javascript:void(0);" title="Michael S - Costa, Rica">Michael S - Costa, Rica</a>
+                    </div>
+                  </div>
+            </div>
+                         <div class="item">
+                <div class="single_testimonial text-center"> 
+                      <a href="javascript:void(0);" title="David - Scotland, UK"><img style="width:100px;" src="https://www.villagelocalminers.com/images/testimonial.jpg" alt="David - Scotland, UK" title="David - Scotland, UK"></a>
+                        <span class="white"><p>They provide high-purity gold at competitive prices. The entire transaction was seamless, and the customer support was very helpful. Highly recommended!</p>
+</span>
+                    <div class="author color_ff"><a href="javascript:void(0);" title="David - Scotland, UK">David - Scotland, UK</a>
+                    </div>
+                  </div>
+            </div>
+                         <div class="item">
+                <div class="single_testimonial text-center"> 
+                      <a href="javascript:void(0);" title="Beldine - Belgium"><img style="width:100px;" src="https://www.villagelocalminers.com/images/testimonial.jpg" alt="Beldine - Belgium" title="Beldine - Belgium"></a>
+                        <span class="white"><p>If you are looking for a trustworthy source for gold and diamonds, Village Local Miners is the right place. Excellent communication and quality products</p>
+</span>
+                    <div class="author color_ff"><a href="javascript:void(0);" title="Beldine - Belgium">Beldine - Belgium</a>
+                    </div>
+                  </div>
+            </div>
+                         <div class="item">
+                <div class="single_testimonial text-center"> 
+                      <a href="javascript:void(0);" title="Francois - Paris"><img style="width:100px;" src="https://www.villagelocalminers.com/images/testimonial.jpg" alt="Francois - Paris" title="Francois - Paris"></a>
+                        <span class="white"><p>I have been purchasing from them for months now, and they never disappoint. Always genuine gold and timely delivery. A very reliable company!</p>
+</span>
+                    <div class="author color_ff"><a href="javascript:void(0);" title="Francois - Paris">Francois - Paris</a>
+                    </div>
+                  </div>
+            </div>
+                         
+        </div>
+    </div>
+</section>
+
+
+
+
+<!-- Faqs -->
+<section class="faqs py-4">
+	<div class="container">
+		<h2 class="ghj" style="margin-bottom:2rem;">Frequently Asked Question</h2>
+	<div class="row">
+<div class="col-md-12">
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingOne">
+             <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          1. What products does Village Local Miners sell?
+        </a>
+      </h4>
+
+        </div>
+        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+            <div class="panel-body">We sell 24 Karat Gold, 1kg Gold Bullion Bars, Diamond Carats, Gold Bars, Gold Dust, Gold Ore, and Raw Gold Bars worldwide.</div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingTwo">
+             <h4 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          2. Is your gold certified and of high purity?
+        </a>
+      </h4>
+
+        </div>
+        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+            <div class="panel-body">Yes, all our gold products are 24 Karat with a guaranteed purity of 99.99%. Each shipment includes proper certification and documentation.</div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingThree">
+             <h4 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          3. Do you offer international shipping?
+        </a>
+      </h4>
+
+        </div>
+        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+            <div class="panel-body">Yes, we ship worldwide with secure and insured delivery to ensure safe arrival at your location.</div>
+        </div>
+    </div>
+
+
+<div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingFour">
+             <h4 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          4. How can I place an order?
+        </a>
+      </h4>
+
+        </div>
+        <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+            <div class="panel-body">You can place an order by contacting us through our website, email, or phone. Our team will guide you through the process.</div>
+        </div>
+    </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingFive">
+             <h4 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          5. What payment methods do you accept?
+        </a>
+      </h4>
+
+        </div>
+        <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+            <div class="panel-body">We accept bank transfers, cryptocurrency, and other secure payment options. Contact us for more details.</div>
+        </div>
+    </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingSix">
+             <h4 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+          6. Can I buy in bulk?
+        </a>
+      </h4>
+
+        </div>
+        <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+            <div class="panel-body">Yes, we accommodate bulk orders and offer competitive pricing for large-scale purchases.</div>
+        </div>
+    </div>
+
+
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingSeven">
+             <h4 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+          7. How do you ensure the safe delivery of gold and diamonds?
+        </a>
+      </h4>
+
+        </div>
+        <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
+            <div class="panel-body">We use trusted international couriers and secure packaging to ensure your order arrives safely and discreetly.</div>
+        </div>
+    </div>
+
+
+
+        <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingEight">
+             <h4 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+          8. Do you offer discounts for wholesale buyers?
+        </a>
+      </h4>
+
+        </div>
+        <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
+            <div class="panel-body">Yes, we offer special discounts for bulk and wholesale buyers. Get in touch with us for customized pricing.</div>
+        </div>
+    </div>
+
+
+        <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingNine">
+             <h4 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+          9. Can I visit your location to inspect the gold before purchasing?
+        </a>
+      </h4>
+
+        </div>
+        <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
+            <div class="panel-body">Yes, we welcome buyers who wish to visit and verify our products before making a purchase. Contact us to schedule an appointment.</div>
+        </div>
+    </div>
+
+
+        <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingTen">
+             <h4 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+          10. How long does shipping take?
+        </a>
+      </h4>
+
+        </div>
+        <div id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTen">
+            <div class="panel-body">Shipping times vary based on location, but typically take between 3 to 7 business days. Expedited</div>
+        </div>
+    </div>
+
+
+
+
+</div>
+</div>
+</div>		
+	</div>
+</section><!--footer sec-->
+<footer id="footer_sec">
+	<div class="bla_ck">
+		<div class="container">
+			<div class="row">
+				
+				<div class="footer_inner">
+					<div class="col-xs-12 col-md-3 col-lg-3">
+						<div class="footer_about">
+						<h4>About <span>Us</span></h4>
+							<p>
+		                        Village Local Miners is one of the well known mining community and seller of Gold Bar,Gold Ore, Raw Gold Bars, Gold Dust, Diamond Carat, 24 Carat Gold and Gold Bullion 1 KG Bars in Cameroon, Village Local Miners is actually managed by Mr. Samuel Njie. Under . . . .
+					                    	
+					        </p>
+							<a href="https://www.villagelocalminers.com/about-us.htm" class="btn btn-md green" title="Read More">Read More</a>
+						</div>
+					</div>
+					<div class="col-xs-12 col-md-5 col-lg-5" style="padding: 0;">
+						<div class="col-xs-12 col-md-5 col-lg-5">
+							<div class="footer_about">
+								<h4>Useful <span>Links</span></h4>
+								<ul>
+									<li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com" title="Home">Home</a></li>
+									<li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/about-us.htm" title="About Us">About Us</a></li>
+									<li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/gallery.htm" title="Gallery">Gallery</a></li>
+									<li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/contact-us.htm" title="Contact Us">Contact Us</a></li>
+                  <!-- <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/our-guarantee.htm" title="Our Guarantee">Our Guarantee</a></li>
+              <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/shipping-and-delivery.htm" title="Shipping & Delivery">Shipping & Delivery</a></li> -->
+									
+									<li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/service-area.htm" title="Service Area">Service Area</a></li>
+									
+									
+			
+								</ul>
+							</div>
+						</div>
+						<div class="col-xs-12 col-md-7 col-lg-7">
+              <div class="footer_about">
+                <h4>Our <span>Products</span></h4>
+                <ul>
+                                  <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/our-products.htm" title="Our Products Suppliers in South Africa ">Our Products</a></li>
+                                <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/24-karat-gold.htm" title="24 Karat Gold Suppliers in South Africa ">24 Karat Gold</a></li>
+                                <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/uncut-diamond.htm" title="Uncut Diamond Suppliers in South Africa ">Uncut Diamond</a></li>
+                                <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/white-diamond.htm" title="White Diamond Suppliers in South Africa ">White Diamond</a></li>
+                                <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/1kg-gold-bullion-bars.htm" title="1kg Gold Bullion Bars Suppliers in South Africa ">1kg Gold Bullion Bars</a></li>
+                                <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/diamond-carat.htm" title="Diamond Carat Suppliers in South Africa ">Diamond Carat</a></li>
+                                <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/gold-bar.htm" title="Gold Bar Suppliers in South Africa ">Gold Bar</a></li>
+                                <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/gold-dust.htm" title="Gold Dust Suppliers in South Africa ">Gold Dust</a></li>
+                                <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/gold-ore.htm" title="Gold Ore Suppliers in South Africa ">Gold Ore</a></li>
+                                <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/raw-gold-bar.htm" title="Raw Gold Bar Suppliers in South Africa ">Raw Gold Bar</a></li>
+                                <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/diamond.htm" title="Diamond Suppliers in South Africa ">Diamond</a></li>
+                                <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="https://www.villagelocalminers.com/natural-diamond.htm" title="Natural Diamond Suppliers in South Africa ">Natural Diamond</a></li>
+                                </ul>
+              </div>
+            </div>
+					</div>
+										<div class="col-xs-12 col-md-4 col-lg-4">
+						<div class="footer_about">
+							<h4>Contact <span>Us</span></h4>
+						</div>
+						<div class="last_footer">
+							<ul>
+								<li><i class="fa fa-building-o"></i>Village Local Miners</li>
+								<li><i class="fa fa-envelope"></i>info@localvillageminers.com</li>
+								<li><i class="fa fa-phone"></i>Text: +256750625851</li>
+								<li><i class="fa fa-whatsapp"></i>WhatsApp: +256750625851</li>
+								<li><i class="fa fa-map-marker"></i> Entebbe Rd, Kampala Uganda</li>
+								<li><i class="fa fa-globe"></i>www.villagelocalminers.com</li>
+							</ul>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<!--footer sec end-->
+
+<footer class="copy-right">
+	<div class="container">
+		<div class="row copy">
+			<p style="color: #b23821;">Copyright © 2026 Village Local Miners</p>
+		</div>
+	</div>
+</footer>
+
+<a href="javascript:" id="return-to-top"><i class="fa fa-chevron-up"></i></a>
+ <!-- WhatsApp fixed button -->
+   <div id="whatsapp-button" class="whatsapp-button">
+        <a href="https://wa.me/+256750625851" target="_blank" rel="noopener noreferrer">
+            <img src="https://www.villagelocalminers.com/images/WhatsApp_icon.png.webp" alt="WhatsApp">
+        </a>
+    </div>
+
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script>
+      
+
+      var placeSearch, autocomplete, autocomplete1;
+      var componentForm = {
+        street_number: 'short_name',
+        route: 'long_name',
+        locality: 'long_name',
+        administrative_area_level_1: 'short_name',
+        country: 'long_name',
+        postal_code: 'short_name'
+      };
+
+      function initAutocomplete() {
+        // Create the autocomplete object, restricting the search to geographical
+        // location types.
+        autocomplete = new google.maps.places.Autocomplete(
+            /** @type {!HTMLInputElement} */(document.getElementById('autocomplete')),
+            {types: ['geocode']});
+      
+      autocomplete1 = new google.maps.places.Autocomplete(
+            /** @type {!HTMLInputElement} */(document.getElementById('autocomplete1')),
+            {types: ['geocode']});
+
+        // When the user selects an address from the dropdown, populate the address
+        // fields in the form.
+        autocomplete.addListener('place_changed', fillInAddress);
+      }
+
+      function fillInAddress() {
+        // Get the place details from the autocomplete object.
+        var place = autocomplete.getPlace();
+
+        for (var component in componentForm) {
+          document.getElementById(component).value = '';
+          document.getElementById(component).disabled = false;
+        }
+
+        // Get each component of the address from the place details
+        // and fill the corresponding field on the form.
+        for (var i = 0; i < place.address_components.length; i++) {
+          var addressType = place.address_components[i].types[0];
+          if (componentForm[addressType]) {
+            var val = place.address_components[i][componentForm[addressType]];
+            document.getElementById(addressType).value = val;
+          }
+        }
+      }
+
+      // Bias the autocomplete object to the user's geographical location,
+      // as supplied by the browser's 'navigator.geolocation' object.
+      function geolocate() {
+        if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(function(position) {
+            var geolocation = {
+              lat: position.coords.latitude,
+              lng: position.coords.longitude
+            };
+            var circle = new google.maps.Circle({
+              center: geolocation,
+              radius: position.coords.accuracy
+            });
+            autocomplete.setBounds(circle.getBounds());
+          });
+        }
+      }
+    </script>
+    <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCYyhHAHS-58SXSyMw66_MulbmH-xHruxI&amp;libraries=places&amp;callback=initAutocomplete"
+        async defer></script>-->
+        <script src="https://www.google.com/recaptcha/api.js"></script>
+
+<script>
+window.onscroll = function() {myFunction()};
+
+var navbar = document.getElementById("main-nav");
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("fixed")
+  } else {
+    navbar.classList.remove("fixed");
+  }
+}
+</script>
+
+<!--<script type="text/javascript" src="../code.jquery.com/jquery-1.12.0.min.js"></script>-->
+
+<!--animation js---->
+<script src="https://www.villagelocalminers.com/js/animation.js"></script>
+<script>
+$('.animate').scrolla({
+mobile: false,
+once: false
+});
+</script>
+    <!-- Place this tag in your head or just before your close body tag. -->
+    <script async defer src="../buttons.github.io/buttons.js"></script>
+<!-- <script src="js/nav.js"></script> -->
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<!--<script src="../ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>-->
+<script src="https://www.villagelocalminers.com/js/boostnav.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			jQuery('.stellarnav').stellarNav({
+				theme: 'dark',
+				breakpoint: 960,
+				position: 'right',
+				phoneBtn: '+256750625851',
+				locationBtn: 'https://www.google.com/maps/place/United+States/@35.9199751,-161.9222532,3z/data=!3m1!4b1!4m6!3m5!1s0x54eab584e432360b:0x1c3bb99243deb742!8m2!3d37.09024!4d-95.712891!16zL20vMDljN3cw?entry=ttu'
+			});
+		});
+	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script>
+ 	$('#offers').owlCarousel({
+          loop: true,
+          margin: 15,
+          items: 4,
+          dots: false,
+          autoplay: true,
+         autoplayTimeout:4000,
+          navigation: true,
+          nav: true,
+          responsive: {
+            0: {
+              items: 1
+            },
+            600: {
+              items: 3
+            },
+            1000: {
+              items: 4
+            }
+          }
+    })
+</script>
+<script src="https://www.villagelocalminers.com/js/bootstrap.min.js"></script>
+<script src="https://www.villagelocalminers.com/js/client.js"></script>
+
+	<script src="https://www.villagelocalminers.com/js/jquery.lightbox.js"></script>
+<script>
+  // Initiate Lightbox
+  $(function() {
+    $('.gallery a').lightbox(); 
+  });
+</script>
+<script src="https://www.villagelocalminers.com/js/latest-news-slider.js"></script>
+<script>
+ 
+
+
+// $(window).load(function() {
+// $("#offers").flexisel({
+// visibleItems:3,
+// itemsToScroll:1,         
+// autoPlay: {
+// enable:true,
+// interval:3000,
+// pauseOnHover:true
+// }        
+// });
+$("#feedback").flexisel({
+visibleItems:2,
+itemsToScroll:1,
+autoPlay:{
+enable:true,
+interval:5000,
+pauseOnHover:true
+}
+});
+
+$("#innter-offers").flexisel({
+visibleItems:2,
+itemsToScroll:1,
+autoPlay:{
+enable:true,
+interval:5000,
+pauseOnHover:true
+}
+});
+</script>
+<!-- Latest Slider End -->
+
+</body>
+<!-- required -->
+	<script src="https://www.villagelocalminers.com/js/slider.js"></script>
+<!-- <script src="js/product.js"></script>
+<script src="js/top.js"></script>-->
+<script src="https://www.villagelocalminers.com/js/fixed.js"></script> 
+
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>-->
+<!--<script>-->
+    
+<!--$('[data-fancybox="gallery"]').fancybox({-->
+<!--  buttons: [-->
+<!--    "slideShow",-->
+<!--    "thumbs",-->
+<!--    "zoom",-->
+<!--    "fullScreen",-->
+<!--    "share",-->
+<!--    "close"-->
+<!--  ],-->
+<!--  loop: false,-->
+<!--  protect: true-->
+<!--});-->
+
+<!--</script>-->
+
+</html>
+
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
