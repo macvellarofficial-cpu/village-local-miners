@@ -22,14 +22,24 @@ export default function ContactUsPage() {
     setErrorMessage('');
 
     try {
-      const res = await fetch('/api/contact', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
-      });
+      let res;
+      try {
+        res = await fetch('/contact.php', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(formData),
+        });
+        if (!res.ok) throw new Error('PHP endpoint unavailable, trying fallback');
+      } catch (phpErr) {
+        res = await fetch('/api/contact', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(formData),
+        });
+      }
 
       const data = await res.json();
-      if (res.ok && data.success) {
+      if (data && (data.success || res.ok)) {
         setSubmitted(true);
         setTimeout(() => {
           setSubmitted(false);

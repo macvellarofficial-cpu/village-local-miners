@@ -18,16 +18,27 @@ export default function QuickContactSidebar() {
     e.preventDefault();
     setIsSubmitting(true);
     try {
-      const res = await fetch('/api/contact', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          ...formData,
-          subject: 'Quick Sidebar Inquiry',
-        }),
-      });
+      let res;
+      const payload = {
+        ...formData,
+        subject: 'Quick Sidebar Inquiry',
+      };
+      try {
+        res = await fetch('/contact.php', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload),
+        });
+        if (!res.ok) throw new Error('PHP endpoint unavailable, trying fallback');
+      } catch (phpErr) {
+        res = await fetch('/api/contact', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload),
+        });
+      }
       const data = await res.json();
-      if (res.ok && data.success) {
+      if (data && (data.success || res.ok)) {
         setSubmitted(true);
         setTimeout(() => {
           setSubmitted(false);
