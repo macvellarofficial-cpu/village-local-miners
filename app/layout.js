@@ -2,6 +2,7 @@ import './globals.css';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import WhatsAppButton from '../components/WhatsAppButton';
+import Script from 'next/script';
 
 export const metadata = {
   metadataBase: new URL('https://www.localvillageminers.com'),
@@ -115,6 +116,23 @@ export default function RootLayout({ children }) {
         </main>
         <Footer />
         <WhatsAppButton />
+        <Script
+          id="tawk-to"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+              (function(){
+              var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+              s1.async=true;
+              s1.src='https://embed.tawk.to/6ad662d79db64b34c9e27d21/1k5an46tr';
+              s1.charset='UTF-8';
+              s1.setAttribute('crossorigin','*');
+              s0.parentNode.insertBefore(s1,s0);
+              })();
+            `,
+          }}
+        />
       </body>
     </html>
   );
