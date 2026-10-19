@@ -24,14 +24,14 @@ export default function QuickContactSidebar() {
         subject: 'Quick Sidebar Inquiry',
       };
       try {
-        res = await fetch('/contact.php', {
+        res = await fetch('/api/contact', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(payload),
         });
-        if (!res.ok) throw new Error('PHP endpoint unavailable, trying fallback');
-      } catch (phpErr) {
-        res = await fetch('/api/contact', {
+        if (!res.ok) throw new Error('API route failed');
+      } catch (apiErr) {
+        res = await fetch('/contact.php', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(payload),
