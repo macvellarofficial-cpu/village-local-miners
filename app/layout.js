@@ -1,7 +1,6 @@
 import './globals.css';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import WhatsAppButton from '../components/WhatsAppButton';
 import Script from 'next/script';
 
 export const metadata = {
@@ -115,7 +114,6 @@ export default function RootLayout({ children }) {
           {children}
         </main>
         <Footer />
-        <WhatsAppButton />
         <Script
           id="tawk-to"
           strategy="afterInteractive"
